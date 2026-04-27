@@ -12,6 +12,7 @@ The goal of this project was to improve my frontend skills by practicing Tailwin
 
 ## 🚀 Live Demo
 
+https://3omarmohamed.github.io/tailwind-practice-template/
 
 ---
 
